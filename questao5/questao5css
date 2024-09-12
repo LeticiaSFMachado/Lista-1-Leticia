@@ -1,0 +1,60 @@
+body{
+  padding: 25px;
+  background-color: white
+}
+ header {
+    background-color: #ffaeae ;
+    color: black;
+    padding: 20px;
+    text-align: center
+    font-size: 100%;
+ }
+section {
+  h2 {
+    font-size: 150%;
+    color: black;
+  }
+  
+  #santa {
+    font-size: 150%;
+    color: black;
+  }
+  
+  h3 {
+    font-size: 150%;
+    color: black;
+  }
+  
+  #timor {
+    font-size: 150%;
+    color: black;
+  }
+  
+  h4 {
+    font-size: 150%;
+    color: black;
+  }
+  
+  #kiribati {
+    font-size: 150%;
+    color: black;
+  }
+  
+   h5 {
+  font-size: 150%;
+    color: black;
+   }
+
+   #macedonia {
+    font-size: 150%;
+    color: black;
+   }
+   
+  h6 {
+  font-size: 150%;
+    color: black;
+  }
+  #burundi {
+    font-size: 150%;
+    color: black;
+  }
