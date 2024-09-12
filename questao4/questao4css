@@ -1,0 +1,19 @@
+body{
+  padding: 25px;
+  background-color: #000fff ;
+}
+ header {
+    background-color: #000889 
+;
+    color: white;
+    padding: 20px;
+    text-align: center
+ }
+section {
+  h2 {
+    font-size: 150%;
+    color: white;
+  }
+  h3 { 
+    font-size: 150%;
+    color: white;
