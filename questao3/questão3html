@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>lista 1 - questao 3</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1 class="title">Qual é a diferença entre linguagem de
+programação Server Side e Client Side? </h1>
+  </header>
+  <section>
+    <h2>Linguagens de programação server side são linguagens que o servidor entende. Essas linguagens necessitam ser processadas antes de serem enviadas para o navegador. Popularmente conhecidadas como linguagens de back-end. </h2>
+    <p>Exemplos de linguagens server side</p>
+      <ul>
+        <li> Java</li>
+        <li> Solidity</li>
+        <li> Python</li>
+      </ul>
+    <h3> Já as linguagens de programação client side são as linguagens que apenas o navegador entende. Essas linguagens são processadas diretamente pelo navegador. Popularmente coinhecidas como linguagens de fron-end. </h3>
+    <p>Exemplos de linguagens client side</p>
+      <ul>
+        <li> HTML</li>
+        <li> CSS</li>
+        <li>JavaScript</li>
+      </ul>
+ </section>
+  </body>
+</html>
