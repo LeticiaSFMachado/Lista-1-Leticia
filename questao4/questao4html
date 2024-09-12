@@ -1,0 +1,18 @@
+CÓDIGO HTML 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>lista 1 - questao 4</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1 class="title">O que significa semântica? Por que isso é tão importante em HTML5? </h1>
+  </header>
+  <section>
+    <h2> Semântica se refere ao significado de um trecho de código. Em HTML, a semântica pode ser representada pelas tags. A semântica em HTML é importante pois torna o conteúdo mais compreensível tanto para os navegadores quanto para as pessoas.  </h2>
+    <h3> Um exemplo de utilização de uma abordagem semântica no html é usar a tag "header" ao invés de usar uma tag "div", pois a tag "header" indica que o texto é especificamente o cabeçalho, já a tag "div" pode ser usada para qualquer parte da página. </h3>
+ </section>
+  </body>
+</html>
