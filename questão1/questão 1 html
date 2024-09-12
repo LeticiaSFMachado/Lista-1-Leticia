@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang = "pt-BR">
+  <head>
+    <meta charset = "UTF-8">
+    <title>Lista 1 - Questão 1</title>
+  </head>
+  <style>
+    body {
+      background-color: #ffd8f4 ;
+    }
+    h1 {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+      color: purple;
+   }
+   #text {
+     font-family: Arial, sans-serif;
+     text-align: center;
+     color: black;
+   }
+  </style>
+  <body>
+      <h1 class="title">Uruguai </h1>
+      <p id = "text"> O Uruguai é um dos países mais interessantes para morar dentre os países da América do Sul, possui economia estável e potencial de crescimento econômico de 3,2% para o ano de 2024. É um país com muitos lugares bonitos, como a cidade de Punta Ballena. Além disso o clima é agradável e possui estações do ano bem definidas. Pretendo morar no Uruguai após o término da faculdade junto com meus pais, meus cachorros e meus gatos :) </p> 
+    </body>
+</html>
