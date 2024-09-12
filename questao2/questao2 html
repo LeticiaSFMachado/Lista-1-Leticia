@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang = "pt-BR">
+  <head>
+    <meta charset = "UTF-8">
+    <meta name="keywords" content="HTML, DIO, estudos ">
+    <meta name="description" content="Lista 1 de desenvolvimento web">
+    <meta name="author" content="Letícia Simões Figueiras Machado">
+    <title>Lista 1 - Questão 2</title>
+  </head>
+  <style>
+    body {
+      background-color: #fffbd6  ;
+    }
+    h1 {
+      font-family: Times New Roman;
+      text-align: center;
+      margin-top: 30px;
+      color: #a82ce7 ;
+   }
+   #text {
+     font-family: Times New Roman;
+     text-align: center;
+     color: black;
+   }
+  </style>
+  <body>
+      <h1 class="title">DIO </h1>
+      <p id = "text"> A plataforma Digital Innovation One (DIO) possui diversos cursos relacionados a programação e tecnologia. É possível realizar cada curso separadamente ou em conjuntos, como bootcamps. A plataforma conta com conteúdos pagos e gratuitos e cria diversas iniciativas de bootcamps inteiramente gratuitos em parceria com grandes empresas. No momento é possível encontrar um bootcamp gratuito, com matrículas abertas, de engenharia de dados em python, em parceria com a NTT Data.  </p> 
+    </body>
+</html>
