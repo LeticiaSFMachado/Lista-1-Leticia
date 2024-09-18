@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
     <body>
-     <header> 
+     <header>
       <h1>Bandeiras Nacionais </h1>
      </header>
     <section>
@@ -14,30 +14,85 @@
        <img src= "https://media.istockphoto.com/id/1414929489/pt/vetorial/vector-illustration-of-the-official-flag-of-saint-lucia-the-national-flag-of-saint-lucia.jpg?s=612x612&w=0&k=20&c=5AFIcRapgRhn_9kBD7s3JIglD4jHTpYEKFVEVaGmV94=" alt= Santa-Lúcia width="200" height="150">
         <p id= santa>
           <a href= "https://pt.wikipedia.org/wiki/Santa_L%C3%BAcia" target="_blank" >Santa Lúcia</a> <br><br>
-             </p> 
+             </p>
+             
+      <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png" alt= São-Cristóvão-e-Neves width="200" height="150">
+        <p id= sao>
+          <a href= "https://pt.wikipedia.org/wiki/S%C3%A3o_Crist%C3%B3v%C3%A3o_e_Neves" target="_blank" >São Cristóvão e Neves</a> <br><br>
+             </p>
+      <img src= "https://media.istockphoto.com/id/1221482787/pt/foto/saint-vincent-and-the-grenadines-flag-of-silk-flag-of-saint-vincent-and-the-grenadines-fabric.jpg?s=612x612&w=0&k=20&c=ZEpoEqmFvzhOB9SHAhzqEgtvDbzBHmYKNZr054a91pg=" alt= São-Vicente-e-Granadinas width="200" height="150">
+          <p id= saov>
+          <a href= "https://pt.wikipedia.org/wiki/S%C3%A3o_Vicente_e_Granadinas" target="_blank" >São Vicente e Granadinas</a> <br><br>
+             </p>
+             
+      
+      
+      
       <h3> Ásia</h3>
       <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1200px-Flag_of_East_Timor.svg.png" alt= Timor-Leste width = "200" height = "150">
         <p id= timor>
           <a href= "https://pt.wikipedia.org/wiki/Timor-Leste" target="_blank"> Timor-Leste </a> <br><br>
             </p>
-        
-      <h4> Oceania</h4>    
+           
+      <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/255px-Flag_of_Tajikistan.svg.png" alt= Tajiquistão width = "200" height = "150">
+        <p id= taji>
+          <a href= "https://pt.wikipedia.org/wiki/Tajiquist%C3%A3o" target="_blank"> Tajiquistão </a> <br><br>
+            </p>
+           
+      <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/800px-Flag_of_Bhutan.svg.png" alt= Butão width = "200" height = "150">
+        <p id= butao>
+          <a href= "https://pt.wikipedia.org/wiki/But%C3%A3o" target="_blank"> Butão </a> <br><br>
+            </p>
+           
+           
+           
+       <h4> Oceania</h4>    
       <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/800px-Flag_of_Kiribati.svg.png" alt= Kiribati width = "200" height = "150">
         <p id= kiribati>
           <a href= "https://pt.wikipedia.org/wiki/Kiribati" target="_blank">Kiribati</a> <br><br>
-            </p> 
+            </p>
+      <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Vanuatu_%28official%29.svg/1200px-Flag_of_Vanuatu_%28official%29.svg.png" alt= Vanuatu width = "200" height = "150">
+        <p id= vanuatu>
+          <a href= "https://pt.wikipedia.org/wiki/Vanuatu" target="_blank">Vanuatu</a> <br><br>
+            </p>
+      <img src= "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP8AAACACAMAAADzok/sAAAAclBMVEUBIWn/xyz///9/kLSQfkcRK2X5+vsDI2pFXJEOLHHc4ep4ia/p7PJWa5vv8faElLecqcUfO3siPnwUMnQIJ21neqWqtc3M0+G7xNc0TYfEzNxdcZ8pRIGhrciRn77k5+9OZJZFWoc7U4ttf6m0vtNQZpfz4NtGAAACYUlEQVR4nO3aa3OiMBQGYDZsA0QMFwHBC3aR/v+/uEkAd3VAO2NN2uR9PlRKy8w5p+QkhHoeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwrv93m/XIb8ncb8ncb8ncb8neb8/m/PefPk9eb9uzjQ5p9xUPIz8X2piMwoQzGg4yk07nuYCgYA87VWIA9YeOpjgWLv26dnByHbFNChgbQ8KPJgHRj433PCFEN4BCTtdGANGsJaT05/IkqRH4idGM6Jp1CogqwFx9MpU92pkPSqqAic18Of9EAMqa+ccCmmI56mfmK/fvaTD/JLJ4Hor4vc3V0JtdilXURtlur+2BUiwGfvhdiBrwmZr+8rDihH6ZDfK1C3fi8L+Pr/NtWjQL6bjrAVysqsoyGpsN7veC4mD53IP07BeCd6dA0aefTbx5faYWgYXP5r5xYAYtZLp7LXmLp2uoa3Mvd/hps/O2j5Ic+UFk7DURhcr8GvF41Fq//pcUaOJD7KJvv/6bD0mU+fUIS04HpkS+k70gBDqfl9pc+vvyna4YVAKU3zW/4aG1vgCr9+Lje8Jvml59rWZLK7gI0nG59+ZzT3dz5tSdnxvZkdwHy9iMajhKZdKwGgeoHdDzfrM42F+BCLoF4s5Oph2oX3PJ9vxuZSl/dBeIvn7rR+v9TDrs98jXQzvOCSowC0yFpVQ1bnREdFj2yAA69/vcCPm50iwagHnaL3p3lv9BN+/zJ1PiLvjYXjnbJ9JIrvLz3jerIVDT6XcZ6RC/PPJGT/wm2s3av63N8h+76OZbu9QIAAAAAAADYxXfbXz+SLoYQLUVDAAAAAElFTkSuQmCC" alt= Nauru width = "200" height = "150">
+        <p id= nauru>
+          <a href= "https://pt.wikipedia.org/wiki/Nauru" target="_blank">Nauru</a> <br><br>
+            </p>
        
-      <h5> Europa</h5>   
-      <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/800px-Flag_of_North_Macedonia.svg.png" alt= Macedónia do Norte width = "200" height = "150">
+      
+      
+      <h5> Europa</h5>  
+      <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/800px-Flag_of_North_Macedonia.svg.png" alt= Macedónia-do-Norte width = "200" height = "150">
         <p id= macedonia>
          <a href= "https://pt.wikipedia.org/wiki/Maced%C3%B3nia_do_Norte" target="_blank"> Macedónia do Norte</a> <br><br>
           </p>
-            
+     <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql-TzzPlG2vGLpYbGsb1OisbgY-2AAPcYQg&usqp=CAU" alt= Chipre width = "200" height = "150">
+        <p id= chipre>
+          <a href= "https://pt.wikipedia.org/wiki/Chipre" target="_blank"> Chipre </a> <br><br>
+            </p>
+      <img src= "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAACVBMVEX9uRMAakTBJy2z1jQzAAAA9klEQVR4nO3QMQEAIAAEodf+oY1wmxNEYAMAAAAAAAAAAAAAAAAAAADgo0NQlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUdgmKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSorSA7fWxR0JpunAAAAAAElFTkSuQmCC" alt= Lituânia width = "200" height = "150">
+        <p id= lituania>
+         <a href= "https://pt.wikipedia.org/wiki/Litu%C3%A2nia" target="_blank"> Lituânia</a> <br><br>
+          </p>
+           
+      
+      
       <h6> África </h6>  
       <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/800px-Flag_of_Burundi.svg.png" alt= Burundi width = "200" height = "150">
        <p id= burundi>
         <a href= "https://pt.wikipedia.org/wiki/Burundi" target="_blank">Burundi</a> <br><br>
-            </p> 
+            </p>
+      <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBMW65z8PiR1WMjL8_-3JPgUNFrcUfGcCsQ&s" alt= Eritreia width = "200" height = "150">
+       <p id= eritreia>
+        <a href= "https://pt.wikipedia.org/wiki/Eritreia" target="_blank">Eritreia</a> <br><br>
+            </p>
+      <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLaBD_p2vE5GJW9tc-Qp7b_fcPxLc2Csnsg&s" alt= Malawi width = "200" height = "150">
+       <p id= malawi>
+        <a href= "https://pt.wikipedia.org/wiki/Malawi" target="_blank">Malawi</a> <br><br>
+            </p>
     </section>
     </body>
     </html>
+
+        
