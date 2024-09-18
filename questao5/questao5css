@@ -14,32 +14,94 @@ section {
     font-size: 150%;
     color: black;
   }
-  
+ 
   #santa {
     font-size: 150%;
     color: black;
   }
-  
+  #sao{
+    font-size: 150%;
+    color: black;
+  }
+  #saov{
+    font-size: 150%;
+    color: black;
+  }
+ 
+ 
   h3 {
     font-size: 150%;
     color: black;
   }
-  
+ 
   #timor {
     font-size: 150%;
     color: black;
   }
-  
+   #taji {
+    font-size: 150%;
+    color: black;
+  }
+   #butao {
+    font-size: 150%;
+    color: black;
+  }
+ 
   h4 {
     font-size: 150%;
     color: black;
   }
-  
+ 
   #kiribati {
     font-size: 150%;
     color: black;
   }
+  #vanuatu {
+    font-size: 150%;
+    color: black;
+  }
+   #nauru {
+    font-size: 150%;
+    color: black;
+  }
   
+  h5 {
+  font-size: 150%;
+    color: black;
+   }
+
+   #macedonia {
+    font-size: 150%;
+    color: black;
+   }
+  #chipre {
+    font-size: 150%;
+    color: black;
+   }
+  #lituania {
+    font-size: 150%;
+    color: black;
+   }
+   
+   
+   
+  h6 {
+  font-size: 150%;
+    color: black;
+  }
+  #burundi {
+    font-size: 150%;
+    color: black;
+  }
+  #eritreia {
+    font-size: 150%;
+    color: black;
+  }
+  
+ #malawi {
+    font-size: 150%;
+    color: black;
+  }
    h5 {
   font-size: 150%;
     color: black;
